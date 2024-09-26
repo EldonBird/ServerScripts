@@ -5,7 +5,7 @@ import os
 def main():
 
 
-    f = open("/home/eldon/Documents/test.txt", "w+")
+    f = open("this.txt", "w+")
 
     f.write("y")
 
